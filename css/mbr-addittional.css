@@ -609,8 +609,8 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
   border-radius: 100px !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #f21b3f;
-  border-color: #f21b3f;
+  background-color: #435091;
+  border-color: #435091;
   color: #ffffff;
 }
 .mbr-gallery-filter li.active .btn:focus {
@@ -621,7 +621,7 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
 }
 a,
 a:hover {
-  color: #f21b3f;
+  color: #435091;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -709,8 +709,8 @@ blockquote {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow,
 .jq-number__spin.minus:hover:after,
 .jq-number__spin.plus:hover:after {
-  border-top-color: #f21b3f;
-  border-bottom-color: #f21b3f;
+  border-top-color: #435091;
+  border-bottom-color: #435091;
 }
 .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_default,
 .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current,
@@ -1342,7 +1342,7 @@ a {
 }
 .cid-uegERQAQKA {
   display: flex;
-  background-image: url("images/baseball_catcher.jpg");
+  background-image: url("https://s3.us-east-2.amazonaws.com/3t.health/baseball_catcher.jpg");
 }
 .cid-uegERQAQKA .mbr-overlay {
   background-color: #000000;
