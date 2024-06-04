@@ -165,8 +165,8 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #f21b3f !important;
-  border-color: #f21b3f !important;
+  background-color: #b1d463 !important;
+  border-color: #b1d463 !important;
   color: #ffffff !important;
   box-shadow: none;
 }
@@ -529,7 +529,7 @@ body {
   color: #fafafa !important;
 }
 .text-black {
-  color: #232323 !important;
+  color: #1877ac !important;
 }
 a.text-primary:hover,
 a.text-primary:focus,
@@ -585,10 +585,10 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
   background-position: 0px 1.2em;
 }
 .nav-tabs .nav-link.active {
-  color: #f21b3f;
+  color: #435091;
 }
 .nav-tabs .nav-link:not(.active) {
-  color: #232323;
+  color: #1877ac;
 }
 .alert-success {
   background-color: #70c770;
@@ -1342,7 +1342,7 @@ a {
 }
 .cid-uegERQAQKA {
   display: flex;
-  background-image: ("images/Catcher.jpg");
+  background-image: url("images/baseball_catcher.jpg");
 }
 .cid-uegERQAQKA .mbr-overlay {
   background-color: #000000;
