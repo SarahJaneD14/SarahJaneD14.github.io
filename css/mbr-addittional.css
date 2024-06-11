@@ -903,7 +903,7 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: rgba(237, 239, 235, 0.8) !important;
+  background: rgba(237, 239, 235, 0.0001) !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
